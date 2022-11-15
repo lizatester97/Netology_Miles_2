@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Цена одной бонусной мили: " + rub_for_mile + " RUB");
         System.out.println();
         System.out.println("Количество начисленных бонусных миль: " + bonus_miles);
-        
+
     }
 }
